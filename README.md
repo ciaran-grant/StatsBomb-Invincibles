@@ -1,6 +1,6 @@
 # StatsBomb-Invincibles
 
-This is an initial submission for the Capstone Project from the Udacity Data Scientist Nanodegree: https://www.udacity.com/course/data-scientist-nanodegree--nd025
+The .ipynb and .html files here are an initial submission for the Capstone Project from the Udacity Data Scientist Nanodegree: https://www.udacity.com/course/data-scientist-nanodegree--nd025
 
 The data used is freely available through StatsBomb (https://statsbomb.com/academy/, https://github.com/statsbomb/open-data). 
 1. Sign the user agreement
