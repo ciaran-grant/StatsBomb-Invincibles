@@ -20,4 +20,5 @@ The goal is to identify areas of Arsenal's defensive strengths and the frequent 
 4. Cluster and evaluate Opponent's ball progressions
 5. Cluster and evaluate Opponent's shot creations
 
-(/Plots/img0.png)
+
+![Arsenal Relative Defensive Events](/Plots/img2.png)
