@@ -2,7 +2,9 @@
 
 The .ipynb and .html files here are an initial submission for the Capstone Project from the Udacity Data Scientist Nanodegree: https://www.udacity.com/course/data-scientist-nanodegree--nd025
 
-Respective blog post for submission: http://thelastmananalytics.home.blog/2020/10/19/26-invincibles-defending-with-statsbomb-events/
+Respective blog post for submission: 
+ - http://thelastmananalytics.home.blog/2020/10/19/26-invincibles-defending-with-statsbomb-events/
+ - https://thelastmananalytics.home.blog/2020/10/22/26-invincibles-defending-with-statsbomb-events-v2-0/
 
 The data used is freely available through StatsBomb (https://statsbomb.com/academy/, https://github.com/statsbomb/open-data). 
 1. Sign the user agreement
