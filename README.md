@@ -1,8 +1,11 @@
 # StatsBomb-Invincibles
 
 The .ipynb and .html files here are an initial submission for the Capstone Project from the Udacity Data Scientist Nanodegree: https://www.udacity.com/course/data-scientist-nanodegree--nd025
+ 
+Blog post for submission: 
+ - https://thelastmananalytics.home.blog/2020/10/24/26-written-summary-invincibles-defending-with-statsbomb-events/
 
-Respective blog post for submission: 
+Archived blog submissions:
  - http://thelastmananalytics.home.blog/2020/10/19/26-invincibles-defending-with-statsbomb-events/
  - https://thelastmananalytics.home.blog/2020/10/22/26-invincibles-defending-with-statsbomb-events-v2-0/
 
