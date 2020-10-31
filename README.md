@@ -3,11 +3,12 @@
 The .ipynb and .html files here are an initial submission for the Capstone Project from the Udacity Data Scientist Nanodegree: https://www.udacity.com/course/data-scientist-nanodegree--nd025
  
 Blog post for submission: 
- - https://thelastmananalytics.home.blog/2020/10/24/26-written-summary-invincibles-defending-with-statsbomb-events/
+ - https://thelastmananalytics.home.blog/2020/10/31/26-invincibles-defending-with-statsbomb-events-v3-0/
 
 Archived blog submissions:
  - http://thelastmananalytics.home.blog/2020/10/19/26-invincibles-defending-with-statsbomb-events/
  - https://thelastmananalytics.home.blog/2020/10/22/26-invincibles-defending-with-statsbomb-events-v2-0/
+ - https://thelastmananalytics.home.blog/2020/10/24/26-written-summary-invincibles-defending-with-statsbomb-events/
 
 The data used is freely available through StatsBomb (https://statsbomb.com/academy/, https://github.com/statsbomb/open-data). 
 1. Sign the user agreement
@@ -24,8 +25,11 @@ The goal is to identify areas of Arsenal's defensive strengths and the frequent 
 1. Download and preprocess StatsBomb's event data
 2. Explore and visualise Arsenal's defensive actions
 3. Explore and visualise Opponent's ball progression by thirds
-4. Cluster and evaluate Opponent's ball progressions
-5. Cluster and evaluate Opponent's shot creations
+4. Cluster and evaluate Opponent's ball progressions using several clustering methods.
+5. Visualise clustering results to aid understanding.
+6. Cluster and evaluate Opponent's shot creations using several clustering methods.
+7. Visualise clustering results to aid understanding
+
 
 ### Arsenal's Defence
 ![Arsenal Relative Defensive Events](/Plots/img5.png)
