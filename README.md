@@ -28,8 +28,6 @@ import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
 from sklearn import metrics
-import warnings
-warnings.filterwarnings('ignore')
 
 from CustomPitch import createVerticalPitch
 from StatsBombPrep import ball_progression_events_into_thirds
