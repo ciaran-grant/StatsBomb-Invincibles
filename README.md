@@ -19,11 +19,11 @@ The goal is to identify areas of Arsenal's defensive strengths and the frequent 
 
 Below libraries and versions were used.
 
-pandas==1.1.1
-numpy==1.18.2
-matplotlib==3.0.0
-seaborn==0.10.0
-scikit-learn==0.22.2
+- pandas==1.1.1
+- numpy==1.18.2
+- matplotlib==3.0.0
+- seaborn==0.10.0
+- scikit-learn==0.22.2
 
 ``` python
 import json
