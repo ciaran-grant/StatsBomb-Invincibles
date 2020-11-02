@@ -19,7 +19,8 @@ The goal is to identify areas of Arsenal's defensive strengths and the frequent 
 
 Below libraries are required.
 
-`import json
+``` python
+import json
 from pandas.io.json import json_normalize
 import os
 import pandas as pd
@@ -34,7 +35,8 @@ from CustomPitch import createVerticalPitch
 from StatsBombPrep import ball_progression_events_into_thirds
 from StatsBombViz import plot_sb_events, plot_sb_event_location, plot_sb_events_clusters, plot_individual_cluster_events
 from StatsBombViz import plot_sb_event_grid_density_pitch, plot_histogram_ratio_pitch
-from ClusterEval import kmeans_cluster, agglomerative_cluster, cluster_colour_map, cluster_evaluation, plot_cluster_evaluation`
+from ClusterEval import kmeans_cluster, agglomerative_cluster, cluster_colour_map, cluster_evaluation, plot_cluster_evaluation
+```
 
 The .ipynb and .html files here are an initial submission for the Capstone Project from the Udacity Data Scientist Nanodegree: https://www.udacity.com/course/data-scientist-nanodegree--nd025
  
